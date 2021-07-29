@@ -3,4 +3,5 @@
     <string name="this_is_my_first_app">This is My First App</string>
     <string name="this_is_a_second_activity">This is a Second Activity</string>
     <string name="go_to_first">Go To First</string>
+    <string name="go_to_second_activity">Go To Second Activity</string>
 </resources>
